@@ -1,3 +1,1 @@
-# sb1-iicij7sz
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Omeruruc/sb1-iicij7sz)
+https://peppy-profiterole-4bd48b.netlify.app
